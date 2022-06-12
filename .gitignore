@@ -1,0 +1,59 @@
+### Jekyll ###
+_site
+.jekyll-metadata
+*-cache/
+
+
+### NPM ###
+/node_modules/
+
+
+### Atom ###
+.ftpconfig
+.sftpconfig
+
+
+### Compressed Packages ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+
+### Logs and Databases ###
+*.log
+*.sql
+*.sqlite
+
+
+### MacOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+### Vim ###
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
