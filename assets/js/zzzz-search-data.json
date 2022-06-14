@@ -1,6 +1,3 @@
----
-permalink: /assets/js/search-data.json
----
 {
 {%- assign i = 0 -%}
 {%- assign pages_array =  | split:  -%}
