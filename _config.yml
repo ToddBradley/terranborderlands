@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the website for a tabletop role playing game campaign
   called Terran Borderlands. The game uses the These Stars Are Ours!
   setting and the Cepheus Deluxe ruleset, both by Stellagama Publishing.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /terranborderlands
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ToddBradley404
 github_username:  ToddBradley
