@@ -2,8 +2,6 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.2"
 
-source 'https://rubygems.org'
-
 gem 'coderay', '~> 1.1.0'
 
 group :jekyll_plugins do
