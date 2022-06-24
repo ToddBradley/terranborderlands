@@ -7,12 +7,13 @@ parent: Rules
 
 ## During Character Creation
 
+We use Cepheus Deluxe rules for character creation, not counting converting older characters into the newest ruleset.
+
 * Every PC is Terran. The game allows alien PCs, but I don’t.
 * There are three homeworlds to choose from: Terra, Jambavan, and Parvati.
 * All character creation rules that are optional are allowed.
-* After rolling 2D6 for each stat, down the line, you may replace any characteristic with A (10).
-* We use the "particularly merciful Referee" rule. If you fail a Survival roll, instead of immediately dying, you may roll on the Mishap table, increase your character’s age by 2 years, then immediately leave that career.
-* In addition, you may ignore one failed Survival roll, at the cost of replacing your 10 characteristic with 2D6.
+* Roll stats the old fashioned way - 2D6 for each stat, down the line.
+* After rolling stats, you may replace any characteristic with A (10).
 
 ## During Play
 
@@ -52,24 +53,26 @@ Unbalanced power:
 
 Play out a scene with a crewmate to increase your bond with them. This can be a conversation or a narrative montage. This bond improves your ability to use the Aiding Another rule with each other in the future.
 
-Here is the *Aiding Another* rule, from CESRD p.15:
+Here is the *Collaboration* rule, from **Cepheus Deluxe**:
 
-> Sometimes characters work together and help each other out. In this case, one character (usually the one with the highest total of modifiers on the check) is considered the leader of the effort and makes the check normally, while each helper makes the same check. The Effect of a helper's check result can provide either a bonus (DM+1 with a successful result, DM+2 with an Exceptional Success) or a penalty (DM-1 with a failed result, DM-2 with an Exceptional Failure) to the leader's check result. In many cases, outside help isn't beneficial, or only a limited number of helpers can aid someone at once. The Referee limits aid as appropriate for the task and conditions.
+> In some cases, characters may work together on a task throw. The character with the highest combined skill and characteristic DMs make the main skill throw. Any assistant can make a skill throw at the same difficulty as well; if they succeed, add DM+1 to the primary character’s throw; if they fail, the primary character suffers no penalty. There can only be one assistant to the main skill throw. However, the Referee is encouraged to allow other characters to assist the assistant. Each throw has the same difficulty as the original skill throw. Note that characters who are assisting in the throw do not necessarily have to use the same skill. If the player and Referee agree, a related skill task throw can assist. For example, a ship’s engineer might throw Engineering to assist the Pilot’s skill throw. Teamwork!
 
-For every point of PC Bond your character has with another, you get a +1 on the skill check to be a helper. Note that this isn't the same as the "leader of the effort" having a +1.
+For every point of PC Bond your character has with another, you get a +1 on the skill check to be an assistant.
 
 Here is an example:
 
-Abel and Baker have a PC Bond of +4. Abel has Electronics-2 skill and Baker has Electronics-1 skill. Baker decides to help Abel on a particularly important task, with the following task description:
+Abel and Baker have a PC Bond of +4. Abel has Computer-2 skill and Baker has Repair-1 skill. Baker decides to help Abel on a particularly important task, and the Referee rules that Repair can be used to help in this situation. 
 
-*Construct a mnemonic memory device using stone knives and bear skins*: Electronics, Intelligence, 1d6 hours, Difficult
+The task has the following task description:
 
-Abel and Baker both have an Intelligence modifier of +0.
+*Construct a mnemonic memory device using stone knives and bear skins*: Computer, Intelligence, 1d6 hours, Difficult
 
-First, Baker (the person aiding) rolls 9 on 2D6. Adding his skill of +1 and the PC Bond of +4, that adds up to 14. That's an  exceptional success, giving +2 DM on Abel's roll.
+A *Difficult* skill check requires 10+ to succeed. Abel and Baker both have an Intelligence modifier of +0.
 
-Then, Abel rolls 6 on 2D6. He adds his skill of +2, and the Aid Another bonus he got from Baker of +2. But it's a Difficult task, so there's a -2 DM. The total comes out to 6+2+2-2=8, barely enough to succeed in the check.
+First, Baker (the "assistant") rolls 7 on 2D6. Adding his skill of +1 and the PC Bond of +4, that adds up to 12. That beats the 10+ target, giving DM+1 on Abel's roll.
 
-If Abel and Baker didn't have that PC Bond, though, the Aid Another bonus would have been only +1, meaning Abel's check would have been 7, and they would have failed.
+Then, Abel rolls 6 on 2D6. He adds his skill of +2, and the Collaboration bonus he got from Baker of +2. That adds up to 10, barely enough to succeed in the check.
+
+If Abel and Baker didn't have that PC Bond, though, Baker would have only gotten an 8, falling short of the 10 required. That, in turn, would mean Abel wouldn't get the DM+1, and his total would be only 9, a failure.
 
 Good thing they work together so well!
