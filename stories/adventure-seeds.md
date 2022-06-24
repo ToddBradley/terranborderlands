@@ -11,16 +11,7 @@ parent: "Our Stories"
 
 In **Episode 202 - Expedition to Crimson Colony Base** the party explored the ruins of the base on the distant planet of Brahmagupta, and discovered it was run by Reticulans. They also explored the remains of a crashed Cicek starship there.
 
-### Selling the Loot
-
-The group has sold most of the legal damaged items scavenged from Brahmagupta, but still has possession of many undamaged items and a few damaged illegal items.
-
-Where can our cast of characters find a buyer?
-
-
-### What Were The Greys Doing There?
-
-The exact purpose of the base remains a bit of a mystery. And the circumstances of its destruction are still hazy. Is it worth investigating more?
+The exact purpose of the base remains a bit of a mystery. And the circumstances of its destruction are still hazy. Is it worth investigating more? What were the greys doing there?
 
 
 ## The Kidnapped Frozen Colonists
@@ -42,13 +33,7 @@ From the *Signal 99* adventure, verbatim:
 
 ### Experiment 358G/6
 
-Malek has the body of the "space bear" on ice back at the Zephyros warehouse. According to Director Jonas Karrim of Cikavac Meditech and captain of the Laboratory Ship Nakatomi...
-
-> Experiment 358G/6 is a bilaterally symmetrical warm-blooded creature with gray skin and some fur. Testing shows that it is an artificial genetic hybrid - a cross between a common animal (a dog) on Terra and a common animal from Keid (now part of the Reticulan Technate).
-
-Director Karrim has offered 10,000 Cr for the remainder of corpse, intact.
-
-From **Episode 101 - Wreck in the Ring**, Malek knows that the experiment belonged to Devanter Genetics, a genetic research company that still exists.
+From **Episode 101 - Wreck in the Ring**, Malek knows that Experiment 358G/6 belonged to Devanter Genetics, a genetic research company that still exists.
 
 Some questions for the curious:
 
