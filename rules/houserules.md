@@ -76,3 +76,16 @@ Then, Abel rolls 6 on 2D6. He adds his skill of +2, and the Collaboration bonus 
 If Abel and Baker didn't have that PC Bond, though, Baker would have only gotten an 8, falling short of the 10 required. That, in turn, would mean Abel wouldn't get the DM+1, and his total would be only 9, a failure.
 
 Good thing they work together so well!
+
+### Hero Points
+
+We'll use the optional Individual Hero Points rule in the Terran Borderlands campaign. See p. 12 of *Cepheus Deluxe* for the Hero Points rules.
+
+You'll get two individual Hero Points at the start of each session; use 'em or lose 'em. But we won't use group Hero Points.
+
+### Personal Combat Tweaks
+
+**Double Tap**: You can fire a second time in the same action, with +1 die of damage and DM-2 to hit. Yes, a Double Tap weapon can fire 4 shots per round, if the PC does nothing but 2 Attack actions that round.
+
+**Aiming** gives +2 bonus per action instead of +1 bonus (maximum of +6)
+

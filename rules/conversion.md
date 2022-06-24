@@ -129,20 +129,6 @@ Keep your existing equipment. CD has some new equipment, and changes some detail
 
 # Other Notes for My Players
 
-Here is a list of other things to point out to my gaming group in converting from *Cepheus Engine* to *Cepheus Deluxe*.
-
-### Collaboration
-
-The CD *Collaboration* rule (p. 11) replaces the CE *Aiding Another* rule.
-
-> In some cases, characters may work together on a task throw. The character with the highest combined skill and characteristic DMs make the main skill throw. Any assistant can make a skill throw at the same difficulty as well; if they succeed, add DM+1 to the primary character’s throw; if they fail, the primary character suffers no penalty. There can only be one assistant to the main skill throw. However, the Referee is encouraged to allow other characters to assist the assistant. Each throw has the same difficulty as the original skill throw. Note that characters who are assisting in the throw do not necessarily have to use the same skill. If the player and Referee agree, a related skill task throw can assist. For example, a ship’s engineer might throw Engineering to assist the Pilot’s skill throw. Teamwork!
-
-### Hero Points
-
-We'll use the optional Individual Hero Points rule in the Terran Borderlands campaign. See p. 12 for the Hero Points rules.
-
-You'll get two individual Hero Points at the start of each session; use 'em or lose 'em. But we won't use group Hero Points.
-
 ### Experience Points
 
 Unlike *Cepheus Engine*, *Cepheus Deluxe* has an experience point (XP) system. In *Cepheus Deluxe*, you learn new skills (and languages and Traits) by spending XP for them.
