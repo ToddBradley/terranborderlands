@@ -7,10 +7,11 @@ nav_order: 4
 
 | Name                      | Player     | Notes            | Current Status / Location|
 |---------------------------|------------|------------------|--------------------------|
-| [Malek Palfrey Windsor](malek) | Dan   | former diplomat  | Owl Bear (pilot, navigator) |
-| Ilse Sharp                | Matt       | former navy, naval infantry  | Owl Bear (comms, engineer, security) |
-| [Orlan Gat](orlan)        | Em         | former navy | Owl Bear |
+| [Malek Palfrey Windsor](malek) | Dan   | diplomat  | Owl Bear (pilot, navigator) |
+| Ilse Sharp                | Matt       | navy, naval infantry  | Owl Bear (comms, engineer, security) |
+| [Orlan Gat](orlan)        | Em         | navy | Owl Bear |
 | [Aramis Lockhart](aramis) | Z.         | belter | Owl Bear |
+| [Ratna](ratna)            | Brandon    | scholar | (unknown) |
 | ┉┉┉┉┉┉                    | ┉┉┉┉       | ┉┉┉    | ┉┉┉┉┉┉┉ |
 | Harshit                   | Chad       | former scout and physician, ex-con | Parvati Station - volunteer medic |
 | [Randy Holberg](randy)    | Kevin      | former army, colonist, belter; rescued from Reticulan Abductor | Parvati Station |
