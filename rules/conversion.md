@@ -138,3 +138,43 @@ To convert a CE PC into CD, take the number of weeks you have been studying a ne
 So, if you've been on a training program and have accumulated 4 weeks toward Piloting and 8 weeks toward Gun Combat, you now have 12 unspent XP. You can spend those immediately on skill advancement, or hold on to them and use them later.
 
 By the way, don't make the mistake of thinking that just because the game uses XP now, there are levels or ranks. There aren't. XP is simply earned for adventuring, and then spent to improve your character, one thing at a time.
+
+# Equipment Conversions
+
+Here is how I'm judging some items from *These Stars Are Ours!* to work with *Cepheus Deluxe* rules.
+
+## Heavy Blaster
+
+The Reticulan Heavy Blaster is treated as a the *Cepheus Deluxe* "Blaster Rifle" (page 79). Here is the description for this setting.
+
+> Reticulans equip their heavier auxiliaries – typically Cicek - with this devastating two-handed laser weapon, which provides heavy firepower and avoids the need for an external power pack. Unlike Terran infantry lasers, the Heavy Blaster is capable of automatic fire.
+
+## Vibro Blade
+
+The Reticulan Vibro Blade is treated as a the *Cepheus Deluxe* "Vibro-Blade" (page 77).
+
+## Medical Robot
+
+The Reticulan Medical Robot "appears as a grav-propelled metal sphere with a plethora of arms and articulated tools." In game terms, it can either operate as an automous medic with skill Medicine-2, or it can assist another medic by providing a DM+1 to Medicine rolls.
+
+## Multiscanner
+
+As with the original version...
+
+> The standard Reticulan multiscanner is a TL13 handheld device which combines the following detectors into a single, hand-held instrument: Magnetic Compass, Radiation Detector, Metal Detector, Inertial Locator, and Electromagnetic Probe. It also includes a wide range of medical-scientific scanners capable of basic medical investigation and examination of biological and chemical samples. The multiscanner includes its own holographic projector and wireless modem. Reticulans typically use the multiscanner in conjunction with their CompuOrb.
+
+Interpreting the results uses Science skill. The multiscanner doesn't give a bonus to Science skill checks - it makes them possible by replacing a variety of other tools the PC would normally need to use.
+
+## Pocket Laboratory
+
+> The Pocket Laboratory is a sophisticated, miniaturized, device capable of performing a wide variety of laboratory tests on-site on biological or mineral samples.
+
+As with the multiscanner, the pocket laboratory makes it possible for PCs to use their Science skill without other tools. The multiscanner is more generally useful, which explains why it costs three times as much as the pocket laboratory.
+
+## CompuOrb
+
+> The standard Reticulan personal computer is a small hand-held orb which projects a holographic display that can be manipulated by the user's other hand. 
+ 
+In Cepheus Deluxe terms, this is a TL13 version of the **OmniComp** that also has the ability to understand and translate between all known languages. It gives the user DM+1 on all Computer skill checks.
+
+These devices are forbidden in or near any United Terran Republic office, installation, or starship, due to the cybersecurity risks. Nobody fully trusts these things.
