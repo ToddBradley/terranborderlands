@@ -77,15 +77,31 @@ If Abel and Baker didn't have that PC Bond, though, Baker would have only gotten
 
 Good thing they work together so well!
 
-### Hero Points
-
-We'll use the optional Individual Hero Points rule in the Terran Borderlands campaign. See p. 12 of *Cepheus Deluxe* for the Hero Points rules.
-
-You'll get two individual Hero Points at the start of each session; use 'em or lose 'em. But we won't use group Hero Points.
 
 ### Personal Combat Tweaks
 
 **Double Tap**: You can fire a second time in the same action, with +1 die of damage and DM-2 to hit. Yes, a Double Tap weapon can fire 4 shots per round, if the PC does nothing but 2 Attack actions that round.
 
 **Aiming** gives +2 bonus per action instead of +1 bonus (maximum of +6)
+
+
+# Optional Rules
+
+Here’s my stance on the optional rules mentioned in *Cepheus Deluxe*:
+
+* Hero Points: yes
+* Individual Hero Points: yes (meaning no group hero points)
+* Improving Characteristics: yes
+* Switching Careers: yes
+* Aging and Technology: yes
+* IRON MAN!: no
+* Simultaneous Combat: no, though I may change my mind later
+* Dodge and Parry: no
+* Heroes and Grunts: yes, when I feel like it
+* Armor as a Penalty to Hit: no
+* Powerful Psions: maybe, we’ll see if it’s ever relevant
+* Streamlined Turret Fire: maybe, we’ll see if it’s ever relevant
+* Streamlined Point Defense for Ships up to 999 Tons: maybe, we’ll see if it’s ever relevant
+* Streamlined Point Defense for Ships of 1000+ Tons: maybe, we’ll see if it’s ever relevant
+
 
