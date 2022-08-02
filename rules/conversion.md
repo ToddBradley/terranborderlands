@@ -18,7 +18,7 @@ Page numbers are from *Cepheus Deluxe Original Printing - September - October 20
 
 For brevity, I often use the acronym CE to mean *Cepheus Engine* and CD to mean *Cepheus Deluxe*.
 
--- Todd Bradley, todd@toddbradley.com, updated 09-March-2022
+-- Todd Bradley, todd@toddbradley.com, updated 01-August-2022
 
 ## Characteristics
 
@@ -52,7 +52,7 @@ Below is the list of all 31 skills. In square brackets are notes about convertin
 * Admin
 * Aircraft [replaces Airship, Rotor Aircraft, and Winged Aircraft]
 * Animals [replaces Farming, Riding, and Veterinary Medicine]
-* Athletics [this is the only skill you can't use untrained]
+* Athletics
 * Carousing [subsumes Gambling]
 * Computer [subsumes Comms and Prospecting]
 * Deception
@@ -114,7 +114,6 @@ For the purposes of converting existing CE characters to CD, just take any Allie
 
 > If the character lacks the Athletics skill, their Stamina simply equals their END score, and their Lifeblood simply equals twice their END score.
 
-Speaking of Athletics, here's some funny trivia. Athletics is the one skill in *Cepheus Deluxe* that you can't use untrained. (not counting Jack Of All Trades, of course)
 
 ## Traits
 
