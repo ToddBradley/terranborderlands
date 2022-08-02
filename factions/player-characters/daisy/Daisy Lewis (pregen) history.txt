@@ -1,0 +1,96 @@
+
+
+Str 10, +1
+Dex 7
+End 8
+Int 4, -1
+Edu 8
+Soc 11, +1
+
+From Terra
+
+Background Skills
+Melee Combat-0
+Gun Combat-0
+Streetwise-0
+Computer-0
+Broker-0
+
+Attempt Terran Navy, failed
+Draft: Terran Army
+Rank 0, Gun Combat-1
+Carousing-0
+Gunnery-0
+Mechanics-0
+Vehicle-0
+Survival: yes, Commission: no
+Event: Street Fighting. You fight a battle in an urbanized area. Gain one of Recon, Stealth, or Streetwise.
+Stealth-1
+Gambling-1
+Reenlist: yes
+
+Army term 2
+Survival: yes, Commission: no
+Event: Garrison. You are assigned to garrison duty. Gain one of Admin-1, Recon-1, or Streetwise-1.
+Recon-1
+Comms-1
+Reenlist: yes
+
+Army term 3
+Survival: yes, Commission: yes, Advancement: no
+Rank-1, Lt.
+Event: Multi-Species Unit. You are assigned to a multi-species unit. Gain Linguistics and an Ally.
+Linguistics-1
++Ally
+Admin-1
++1 Dex
+Reenlist: yes
+
+Army term 4
+Survival: yes, Advancement: no
+Event: Hostile World. You are assigned to a world with a hostile or wild environment. Gain one of Animals, Mechanics, or Zero-G.
+Zero-G-1
+Gun Combat-2
+aging: no effect
+choosing to not re-enlist
+Benefits: 25000 Cr, Weapon, +Ally
+left the Army as a 34 year old Lieutenant
+
+
+Elite term 1
+Survival: going for glory -3, yes
+Commision: no
+Rank 0 (Analyst)
+Admin-1 (already had it)
+Basic training: Advocate-0
+Event: Conspiracy. You are invited to join a conspiracy against the current government. If you refuse their offer, gain an Enemy. If you accept the offer, throw Bribery 8+ or Liaison 8+. If you succeed, gain one of Bribery, Liaison, or Tactics. If you fail, throw Advocate 10+ to avoid spending a term in Prison.
+I refuse.
++Enemy
+(saving +3 to use on future Event roll)
+Liaison-1
+Aging: no effect
+Reenlist: yes
+
+Elite term 2
+Survival: going for glory -2, yes
+Commission: no
+Event: Interstellar Tour. You go on a tour, visiting several different worlds. Gain Animals, Linguistics, or Zero-G.
+Zero-G-2
++1 Str
+Aging: 2d6-6+2 = 11-6+2=7=no effect
+Reenlist: yes
+
+Elite term 3 (+5 carryover for an event)
+Survival: going for glory -2, 5-2+1=4, yes
+Commission: no
+Event: Political In-Fighting. You have the opportunity to criticize, or even bring down, a questionable political leader. If you refuse and support the leader, gain an Ally. If you attempt to discredit them, roll Liaison 8+ or Social Standing 8+. If you succeed, increase any Level-0 skill to Level-1. If you fail, take a -1 SOC.
+I attempt to discredit: Liason = 2d6+1+5=9+1+5=15, which is exceptional success
+Order of Gaia medal, +2 on next Advancement or Commission
+Broker-1
+Sciences-1
+Aging: 2d6-7+2=8-7+2=3, no effect
+Reenlist: no
+must retire
+Benefits: +1 Edu, 100000 Cr, Explorer's Society
+
+Now age 18+7x4=46
