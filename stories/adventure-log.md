@@ -64,3 +64,9 @@ The action picks up as Harshit and Ilse have been surprised by thugs in the "str
 ## July 5, 2022
 
 Ratna the engineer joins the crew of the Owl Bear on working passage, and the party jumps to Rudra, arriving at Transom Rock to learn there's a period of intense solar flares. For safety, all travellers are advised to seek refuge under at least 3 meters of rock, so Transom Rock is crowded. A week passes as Malek leads the effort to find top buyers for all the remaining items scavanged from Brahmagupta. He sponsors a high profile public demonstration fencing match between Ratna, former Parvati Olympic champion, and the champion of the Ciceks. It's a close match, with Ratna just barely losing. But best of all, it's great public relations and helps get the best prices for the gear being sold. In all, the Owl Bear treasury gains over 1 MCr. Ratna and Aramis go EVA and fix the remaining temporary damage to the sensors of the Owl Bear. The group meets Commodore Ansari, leader of a merchant caravan that will be leaving Rudra for Alula in a couple weeks. That gives enough time for the Owl Bear to jet out to Valcent. More about that next time. 
+
+## August 2, 2022
+
+The Owl Bear rockets to the outer Rudra system to visit Valcent Harbor. There, the crew meets a pair of unusual characters - a Terran/Reticulan hybrid called "The Philosopher" and the leader of the community, Executive Valcent. The Philosopher triggers suppressed feelings in Orlan, who reacts with rage. Executive Valcent, on the other hand, has a proposition for the party.
+
+## August 16, 2022

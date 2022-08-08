@@ -68,7 +68,7 @@ But where is the ship and the rest of the cargo?
 
 # News Dispatches
 
-All content copyright Terran News Agency © 2260
+All content copyright Terran News Agency © 2259, 2260, 2261
 
 ## Caution About Travel to Cicek Space
 

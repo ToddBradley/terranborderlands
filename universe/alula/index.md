@@ -9,12 +9,11 @@ parent: Universe
 The Alula system is the fortified gateway to Cicek space.
 
 
-
 ## Universal World Profile
 
 Here is the official UWP for Alula:
 
-```
+```text
 Alula BAA3770-C, Frozen (Alula Borealis g, K3III, Frozen, Cicek Confederation)
 ```
 
@@ -38,7 +37,6 @@ What does this mean, given that the TSAO book says...
 > the Cicek did not establish a proper naval base there but rather a smaller “scout” base.
 
 Alula Borealis is the star
-
 
 
 ## Background
@@ -84,7 +82,6 @@ Occupied by Long Tail Tribe, who have a cultural disgust and avoidance of Nine F
 The belt lies between Alula Borealis d (the 3rd planet) and Alula Borealis e (the 4th planet).
 
 
-
 ## Tribes
 
 ### Nine Fingers Tribe
@@ -116,4 +113,4 @@ The belt lies between Alula Borealis d (the 3rd planet) and Alula Borealis e (th
 * power level: 3/6
 
 
-#### Additional point of interest
+#### Additional points of interest
