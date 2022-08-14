@@ -20,7 +20,7 @@ Alula BAA3770-C, Frozen (Xi Ursae Majoris ACd, Frozen, Cicek Confederation)
 
 
 | Characteristic | Value | Description |
-|----------------|————---|---------|
+|----------------|————---|-------—————-|
 | Starport type  | B     | Good - refined fuel available, maintenance possible |
 | World size     | A     | 17100km (1.6g) |
 | Atmosphere     | A     | Exotic (Breather with air supply) |
