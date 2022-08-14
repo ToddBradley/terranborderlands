@@ -13,9 +13,9 @@ This is the star system where the Terran Borderlands campaign began. Astrogation
 
 Here is the official UWP for Parvati:
 
-`
+```
 Parvati D400485-A, Temperate (Gliese 408 c-4 M3V, United Terran Republic)
-`
+```
 
 So what does that all mean?
 

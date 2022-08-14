@@ -45,9 +45,9 @@ especially unwelcome here.
 
 Here is the official UWP for Rudra, Wolf 359 c:
 
-`
+```
 Rudra C8B2521-C, Boiling (Wolf 359 c, M6V, United Terran Republic)
-`
+```
 
 | Characteristic | Value | Description |
 |----------------|---|---------|

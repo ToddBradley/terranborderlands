@@ -19,17 +19,17 @@ Alula BAA3770-C, Frozen (Xi Ursae Majoris ACd, Frozen, Cicek Confederation)
 ```
 
 
-| Characteristic | Value | Description |
-|----------------|————---|-------—————-|
-| Starport type  | B     | Good - refined fuel available, maintenance possible |
-| World size     | A     | 17100km (1.6g) |
-| Atmosphere     | A     | Exotic (Breather with air supply) |
-| Hydrographics  | 3     | Non-water fluid oceans cover 6%, frozen at surface |
-| Population     | 7     | 78,000,000 Cicek / 4,000,000 Human / 2,000,000 Other |
-| Government     | 7     | 	Balkanized |
-| Law Level      | 0     | Lawless. All weapons allowed. |
-| Tech level     | 12    | |
-| Classification | Fl, Ht | Non-water fluid oceans, High technology |
+| **Characteristic** | **Value** | **Description** |
+|--------------------|-----------|-----------------|
+| Starport type      | B         | Good - refined fuel available, maintenance possible |
+| World size         | A         | 17100km (1.6g)  |
+| Atmosphere         | A         | Exotic (Breather with air supply) |
+| Hydrographics      | 3         | Non-water fluid oceans cover 6%, frozen at surface |
+| Population         | 7         | 78,000,000 Cicek / 4,000,000 Human / 2,000,000 Other |
+| Government         | 7         | Balkanized      |
+| Law Level          | 0         | Lawless. All weapons allowed. |
+| Tech level         | 12        |                 |
+| Classification     | Fl, Ht    | Non-water fluid oceans, High technology |
 
 World name: Xi Ursae Majoris ACd
 
