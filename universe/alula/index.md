@@ -89,6 +89,8 @@ With 78 million Cicek present in the Alula system, there are thousands of tribes
 
 A major tribe is one that has its own starships, minor starports (repair stations), supply lines, and ability to project might into other systems. There are minor tribes that have great power on a given planet (infantry, for example) but don't have the ability to protect that planet from spacefaring attackers.
 
+The "power levels" shown below are subjective ratings from the (human-centric) Explorer Society. Beward that power levels change all the time.
+
 ### Nine Fingers Tribe
 
 * operates the starport at *Alula Borealis g*
