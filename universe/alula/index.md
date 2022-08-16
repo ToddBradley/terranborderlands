@@ -83,12 +83,16 @@ Rocky planet wracked by volcanoes
 Extremely wide band of asteroid that takes up multiple orbits. Astronomers believe this belt is much younger than the rest of the system, and represents three or even four planets that collided in the not-too-distant past.
 
 
-## Cicek Tribes Present
+## Major Cicek Tribes Present
+
+With 78 million Cicek present in the Alula system, there are thousands of tribes. Many tribes are affiliated or offshoots of other tribes, and the relationships are too complex for most humans to understand or take an interest in. But there are five "major" tribes here. 
+
+A major tribe is one that has its own starships, minor starports (repair stations), supply lines, and ability to project might into other systems. There are minor tribes that have great power on a given planet (infantry, for example) but don't have the ability to protect that planet from spacefaring attackers.
 
 ### Nine Fingers Tribe
 
 * operates the starport at *Alula Borealis g*
-* power level: 1/6
+* power level: 2/6
 
 
 ### Seven Spear Tribe
