@@ -11,6 +11,7 @@ The Alula system is the “fortified gateway to Cicek space.” It consists of 4
 Below is commonly-known information about the Alula system.
 
 ![Alula system layout](AlulaLayout.svg)
+_Alula in cross section - created on https://tannerstephens.com/star-system-creator_
 
 ## Universal World Profile
 
