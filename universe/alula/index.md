@@ -102,7 +102,7 @@ The "power levels" shown below are subjective ratings from the (human-centric) E
 
 ### Seven Spear Tribe
 
-* owners of the *Balanced Spear IX*, the starship wrecked on Brahmagupta years ago
+* owners of the *Balanced Spear IX*, the starship wrecked on Brahmagupta (Parvati system) decades ago
 * power level: 6/6
 * they do not have a presence on Parvati currently
 
