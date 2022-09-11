@@ -41,6 +41,7 @@ Nationality: Cicek Confederation
 Scout base, navy base, no gas giants, two asteroid belts
 
 ![](DoubleStar.jpg)
+_Alula's double stars_
 
 
 ## Background
@@ -75,6 +76,8 @@ Primary world of the system, and home to the starport. It is the 3rd planet in t
 
 There are representatives of all Alula’s tribes here, except for the Long Tail Tribe.
 
+![Alula High Port](AlulaHighPort.png)
+_Alula High Port_
 
 ### Xi Ursae Majoris ACe
 
