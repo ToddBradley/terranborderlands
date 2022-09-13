@@ -15,7 +15,9 @@ _Alula in cross section - created on https://tannerstephens.com/star-system-crea
 
 ## Universal World Profile
 
-Here is the official UWP for Alula:
+Here is the corrected UWP for Alula. 
+
+**Note** that some sources list the population digit as "7" instead of "5". This is a remnant of intentional misinformation during the war, published by the Cicek Confederacy's propaganda wing. Ciceks who survived the war now consider it a sort of "inside joke".
 
 ```
 Alula BAA3770-C, Frozen (Xi Ursae Majoris ACd, Frozen, Cicek Confederation)
@@ -28,7 +30,7 @@ Alula BAA3770-C, Frozen (Xi Ursae Majoris ACd, Frozen, Cicek Confederation)
 | World size         | A         | 17100km (1.6g)  |
 | Atmosphere         | A         | Exotic (Breather with air supply) |
 | Hydrographics      | 3         | Non-water fluid oceans cover 6%, frozen at surface |
-| Population         | 7         | 78,000,000 Cicek / 4,000,000 Human / 2,000,000 Other |
+| Population         | 5         | 780,000 Cicek / 40,000 Human / 20,000 Other |
 | Government         | 7         | Balkanized      |
 | Law Level          | 0         | Lawless. All weapons allowed. |
 | Tech level         | 12        |                 |
@@ -49,6 +51,10 @@ _Alula's double stars_
 From *Terra Arisen*:
 
 > Alula is a recent Cicek colony, first settled in 2238 as a fortified waystation on the “Cicek Run”. By the mid-2240’s it grew into a small border fortress and naval refueling station, though the Cicek never did establish a proper naval base there, just a smaller “scout” base. Initially deemed unappealing for settlements, the discovery of highly valuable complex compounds in Alula’s hydrocarbon-rich oceans drew enterprising Cicek tribes to harvest the chemicals and export them both to Cicek and Terran space. The world also remains an important spot on the Terra-Cicek trade route, though secondary in its importance to the more habitable Fei Lian. Typical for the Cicek, no real law exists beyond the tribal level and there are no restrictions on goods or armament. The Nine Fingers tribe operates the starport and stays neutral in the otherwise cutthroat – sometimes literally so – competition between the other four Cicek tribes on the world.
+
+### Migration
+
+Alula went from "essentially unsettled" to a population of 780,000 (not counting non-Cicek) in only 22 years, between 2238 and 2360. The immigration rate averages around 3000 new arrivals every month, keeping a minor fleet of passenger liners busy, mostly *Fairsky* class (800 ton) transports.
 
 
 ### Xi Ursae Majoris ACb
@@ -91,9 +97,9 @@ Extremely wide band of asteroid that takes up multiple orbits. Astronomers belie
 
 ## Major Cicek Tribes Present
 
-With 78 million Cicek present in the Alula system, there are thousands of tribes. Many tribes are affiliated or offshoots of other tribes, and the relationships are too complex for most humans to understand or take an interest in. But there are five "major" tribes here. 
+With 780,000 Cicek present in the Alula system, there are literally hundreds of tribes. Many tribes are affiliated or offshoots of other tribes, and the relationships are too complex for most humans to understand or take an interest in. But there are five "major" tribes here. 
 
-A major tribe is one that has its own starships, minor starports (repair stations), supply lines, and ability to project might into other systems. There are minor tribes that have great power on a given planet (infantry, for example) but don't have the ability to protect that planet from spacefaring attackers.
+A **major tribe** is one that has its own starships, minor starports (repair stations), supply lines, and ability to project might into other systems. There are also **minor tribes** that have great power on a given planet (infantry, for example) but don't have the ability to protect that planet from spacefaring attackers.
 
 The "power levels" shown below are subjective ratings from the (human-centric) Explorer Society. Beward that power levels change all the time.
 
