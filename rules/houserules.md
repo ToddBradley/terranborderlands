@@ -107,7 +107,7 @@ Here’s my stance on the optional rules mentioned in *Cepheus Deluxe*:
 
 # Static Pulser
 
-The book's description about the Static Pulser leaves a few questions unanswered about the rule effects of using one in combat. Here's some clarification. First, to quote the *Terra Arisen* book:
+The book's description about the Static Pulser leaves a few questions unanswered about the rule effects of using one in combat. Here's some clarification. First, to quote the *Terra Arisen* book (p. 80):
 
 > The Static Pulser is a specialized and advanced electronic warfare system used by the Reticulans. It uses a massive barrage of multi-frequency radio waves and magnetic pulses to overwhelm the target's electronic systems and render it helpless in space perfect for abducting its occupants. A Static Pulser requires one Hardpoint to install, fills 2 tons, and costs MCr6.
 

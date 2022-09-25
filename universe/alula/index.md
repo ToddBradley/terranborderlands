@@ -76,6 +76,9 @@ The belt lies between the 2nd and 3rd planets of the system.
 
 ### Xi Ursae Majoris ACd - Alula - Main Planet
 
+[<img src="alula-satellite-map.png" width="50%"/>](alula-satellite-map.png)
+_Alula satellite map_
+
 Xi Ursae Majoris ACd, commonly called simply **Alula**, is a rocky planet with widely separated deep methane lakes, liquid beneath and frozen at the surface. It is the primary world of the system, and home to the starport. It is the 3rd planet in the Alula system.
 
 The atmosphere is "exotic" and requires a "breather with air supply". These breathers come in two types. 
