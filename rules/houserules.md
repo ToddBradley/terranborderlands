@@ -105,3 +105,18 @@ Here’s my stance on the optional rules mentioned in *Cepheus Deluxe*:
 * Streamlined Point Defense for Ships of 1000+ Tons: maybe, we’ll see if it’s ever relevant
 
 
+# Static Pulser
+
+The book's description about the Static Pulser leaves a few questions unanswered about the rule effects of using one in combat. Here's some clarification. First, to quote the *Terra Arisen* book:
+
+> The Static Pulser is a specialized and advanced electronic warfare system used by the Reticulans. It uses a massive barrage of multi-frequency radio waves and magnetic pulses to overwhelm the target's electronic systems and render it helpless in space perfect for abducting its occupants. A Static Pulser requires one Hardpoint to install, fills 2 tons, and costs MCr6.
+
+> Using a Static Pulser requires an Engineering/INT 8+ roll to hit. On any successful hit, roll 1D6; on 1-2 the target's sensors suffer one level of damage (as per the combat rules), while on 3-6 the target's electronics suffers one level of damage, as described in the Space Combat chapter. An Effects of 2+ on this Engineering roll causes two hits, and critical success (Effect 6+) means that the target ship is completely and immediately paralyzed. Note that the Static Pulser is powerful enough that a successful hit will simply fry the electronic systems of a regular vehicle.
+
+* A Static Pulser can be installed in any standard hardpoint at a Type A or B starport.
+* It does not require a turret; it uses the whole hardpoint. 
+* It requires a gunner to operate. In this case the assigned gunner uses Engineering skill instead of Gunnery skill.
+* In space combat, the gunner assigned to the Static Pulser uses the **Fire Energy Weapons** action to attack an enemy ship (Engineering/INT 8+), as described on *Cepheus Deluxe* p. 147. 
+* Alternatively, on his action the gunner can use the Static Pulser to defend against incoming missiles, but only one missile at a time. Declare the **Point Defense** action, and target one missile. A throw of Engineering/INT 8+ permanently disables that missile's onboard targeting and detonation system.
+* The gunner assigned to the Static Pulser can receive assistance from another crewmember using the Collaboration rule. The assisting crewmember must be free to assist and not occupying another position on the ship. Typical skills to assist are Engineering, Computer, and Gunnery but be creative.
+
