@@ -10,7 +10,7 @@ The Alula system is the “fortified gateway to Cicek space.” It consists of 4
 
 Below is commonly-known information about the Alula system.
 
-![Alula system layout](AlulaLayout.svg)
+![Alula system layout](alula-profile.png)
 _Alula in cross section - created on https://tannerstephens.com/star-system-creator_
 
 ## Universal World Profile
@@ -76,14 +76,38 @@ The belt lies between the 2nd and 3rd planets of the system.
 
 ### Xi Ursae Majoris ACd - Alula - Main Planet
 
-Rocky planet with widely separated deep methane lakes, liquid beneath and frozen at the surface
+Xi Ursae Majoris ACd, commonly called simply **Alula**, is a rocky planet with widely separated deep methane lakes, liquid beneath and frozen at the surface. It is the primary world of the system, and home to the starport. It is the 3rd planet in the Alula system.
 
-Primary world of the system, and home to the starport. It is the 3rd planet in the Alula system.
+The atmosphere is "exotic" and requires a "breather with air supply". These breathers come in two types. 
 
-There are representatives of all Alula’s tribes here, except for the Long Tail Tribe.
+The full size "standard breather" combines a face mask (similar to a scuba mask) and a pair of tanks that provide 6 hours of air. The breather assembly costs a mere Cr75, and the tanks can be refilled at any of thousands of shops for Cr20. It weighs 5 kg.
+
+[<img src="standard-breather.gif" width="50%"/>](standard-breather.gif)
+_Standard Breather (Terran model)_
+
+More convenient is the "mini-breather" that has a more fashionable face mask and a single smaller tank that provides 1 hour of air. Mini-breathers come in a variety of colors and designs. They cost Cr100, but can be refilled at automated stations for Cr1. Mini-breathers only weigh 1 kg.
+
+[<img src="mini-breather.jpeg" width="50%"/>](mini-breather.jpeg)
+_One of this year's most-fashionable mini-breathers, among the Terran minority_
+
+There are representatives of all Alula’s tribes on the planet Alula, except for the Long Tail Tribe.
+
+#### The Starport
+
+Alula's interstellar port is rated Type B, and there is both a "high port" and a "low port" here. The port is able to handle both streamlined and non-streamlined ships. By tradition and neutrality treaty, the **Nine Fingers Tribe** operates the starport.
+
+Alula High Port was originally built under Reticulan control, but later upgraded with help from the Cicek's Terran allies toward the end of the war.
 
 ![Alula High Port](AlulaHighPort.png)
 _Alula High Port_
+
+Alula Low Port is the center of trade in the system, and the startown that has cropped up around the port is known in Terran as **Prosperity City**.
+
+![Prosperity City](prosperity-city.jpg)
+_Prosperity City_
+
+Fuel refining operations on Alula are simple and easy, because several deep seas of mostly methane exist on the planet's surface. The larger ones have extraction and refining facilities, and the refined fuel is then sold at the low port. The major races in the system also have their own private fuel depots at these refineries.
+
 
 ### Xi Ursae Majoris ACe
 
@@ -93,7 +117,6 @@ Rocky planet wracked by volcanoes
 ### Outer Asteroid Belt
 
 Extremely wide band of asteroid that takes up multiple orbits. Astronomers believe this belt is much younger than the rest of the system, and represents three or even four planets that collided in the not-too-distant past.
-
 
 ## Major Cicek Tribes Present
 
@@ -108,19 +131,16 @@ The "power levels" shown below are subjective ratings from the (human-centric) E
 * operates the starport at *Alula Borealis g*
 * power level: 2/6
 
-
 ### Seven Spear Tribe
 
 * owners of the *Balanced Spear IX*, the starship wrecked on Brahmagupta (Parvati system) decades ago
 * power level: 6/6
 * they do not have a presence on Parvati currently
 
-
 ### Rain Tribe
 
 * this is the tribe of Silvertail Stripe, assistant to the Cicek ambassador on Parvati
 * power level: 3/6
-
 
 ### Tree Clinging Tribe
 

@@ -19,7 +19,7 @@ There are only four places of real interest in the Rudra system:
 * **Gamma** - Wolf 396 g: an airless rocky planet that holds a UTR prison (travel here is forbidden)
 
 
-![Rudra System](<Rudra System.svg>)
+![Rudra System](rudra-profile.png)
 
 _Made using Tanner Stephens's [Star System Creator](https://tannerstephens.com/star-system-creator/)_
 
