@@ -69,9 +69,9 @@ Rocky planet with carbon dioxide rich atmosphere
 
 ### Inner Asteroid Belt
 
-Occupied by Long Tail Tribe, who have a cultural disgust and avoidance of Nine Fingers Tribe. Contact point - trade in vital goods. They are pirates hiding out among the rocks. Ancient ruins dot the rocks.
+Occupied by Long Tail Tribe, who have a cultural disgust and avoidance of Nine Fingers Tribe. It is rumored that there are pirates hiding out among the rocks. There are occasional unsubstantiated reports of precursor ruins that dot the rocks.
 
-The belt lies between the 2nd and 3rd planets of the system.
+The inner asteroid belt lies between the 2nd and 3rd planets of the system.
 
 
 ### Xi Ursae Majoris ACd - Alula - Main Planet
@@ -111,17 +111,19 @@ Alula Low Port is the center of trade in the system, and the startown that has c
 ![Prosperity City](prosperity-city.jpg)
 _Prosperity City_
 
-Fuel refining operations on Alula are simple and easy, because several deep seas of mostly methane exist on the planet's surface. The larger ones have extraction and refining facilities, and the refined fuel is then sold at the low port. The major races in the system also have their own private fuel depots at these refineries.
+Fuel refining operations on Alula are simple and easy, because several deep seas of mostly methane exist on the planet's surface. The larger ones have extraction and refining facilities, and the refined fuel is then sold at the low port. The major Cicek tribes in the system also have their own private fuel depots at these refineries.
 
 
 ### Xi Ursae Majoris ACe
 
-Rocky planet wracked by volcanoes
+This is a rocky planet wracked by volcanoes.
 
 
 ### Outer Asteroid Belt
 
 Extremely wide band of asteroid that takes up multiple orbits. Astronomers believe this belt is much younger than the rest of the system, and represents three or even four planets that collided in the not-too-distant past.
+
+There is some prospecting activity in the outer belt, which is much safer for travel than the inner belt.
 
 ## Major Cicek Tribes Present
 
@@ -129,7 +131,7 @@ With 780,000 Cicek present in the Alula system, there are literally hundreds of 
 
 A **major tribe** is one that has its own starships, minor starports (repair stations), supply lines, and ability to project might into other systems. There are also **minor tribes** that have great power on a given planet (infantry, for example) but don't have the ability to protect that planet from spacefaring attackers.
 
-The "power levels" shown below are subjective ratings from the (human-centric) Explorer Society. Beward that power levels change all the time.
+The power levels shown below are subjective ratings from the (admittedly human-centric) **Explorer Society**. Beware that power levels change all the time. Consult local conditions.
 
 ### Nine Fingers Tribe
 
@@ -153,6 +155,6 @@ The "power levels" shown below are subjective ratings from the (human-centric) E
 
 ### Long Tail Tribe
 
-* inhabit the asteroid belt, known to act mostly as pirates preying on merchant activity (both Cicek and Terran)
+* inhabit the inner asteroid belt, known to act mostly as pirates preying on merchant activity (both Cicek and Terran)
 * power level: 3/6
 
