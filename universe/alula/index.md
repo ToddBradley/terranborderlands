@@ -29,7 +29,7 @@ Alula BAA3770-C, Frozen (Xi Ursae Majoris ACd, Frozen, Cicek Confederation)
 | Starport type      | B         | Good - refined fuel available, maintenance possible |
 | World size         | A         | 17100km (1.6g)  |
 | Atmosphere         | A         | Exotic (Breather with air supply) |
-| Hydrographics      | 3         | Non-water fluid oceans cover 6%, frozen at surface |
+| Hydrographics      | 3         | Non-water fluid oceans cover 6% |
 | Population         | 5         | 780,000 Cicek / 40,000 Human / 20,000 Other |
 | Government         | 7         | Balkanized      |
 | Law Level          | 0         | Lawless. All weapons allowed. |
@@ -79,9 +79,11 @@ The belt lies between the 2nd and 3rd planets of the system.
 [<img src="alula-satellite-map.png" width="50%"/>](alula-satellite-map.png)
 _Alula satellite map_
 
-Xi Ursae Majoris ACd, commonly called simply **Alula**, is a rocky planet with widely separated deep methane lakes, liquid beneath and frozen at the surface. It is the primary world of the system, and home to the starport. It is the 3rd planet in the Alula system.
+(planet randomly generated from [https://topps.diku.dk/torbenm/maps.msp](https://topps.diku.dk/torbenm/maps.msp))
 
-The atmosphere is "exotic" and requires a "breather with air supply". These breathers come in two types. 
+Xi Ursae Majoris ACd, commonly called simply **Alula**, is a rocky planet with widely separated deep methane lakes. It is the primary world of the system, and home to the starport. It is the 3rd planet in the Alula system.
+
+The atmosphere is "exotic", made of methane, helium, hydrogen, and some other gases. Travel outdoors requires a "breather with air supply" and heavy clothing (ideally, warmed by battery power). These breathers come in two types. 
 
 The full size "standard breather" combines a face mask (similar to a scuba mask) and a pair of tanks that provide 6 hours of air. The breather assembly costs a mere Cr75, and the tanks can be refilled at any of thousands of shops for Cr20. It weighs 5 kg.
 
