@@ -76,7 +76,7 @@ The inner asteroid belt lies between the 2nd and 3rd planets of the system.
 
 ### Xi Ursae Majoris ACd - Alula - Main Planet
 
-[<img src="alula-from-space.png" width="50%"/>](alula-from-space)
+[<img src="alula-from-space.png" width="50%"/>](alula-from-space.png)
 _Alula from space_
 
 [<img src="alula-satellite-map.png" width="50%"/>](alula-satellite-map.png)

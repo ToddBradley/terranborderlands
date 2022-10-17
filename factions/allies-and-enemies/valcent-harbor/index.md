@@ -1,10 +1,10 @@
 ---
-title: "Split Stone Tribe"
+title: "Valcent Harbor"
 parent: "Allies and Enemies"
 layout: default
 nav_order: 0
 ---
 
-# Split Stone Tribe
+# Valcent Harbor
 
 
