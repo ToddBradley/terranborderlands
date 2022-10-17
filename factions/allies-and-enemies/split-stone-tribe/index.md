@@ -19,6 +19,8 @@ Bantion is a small city on the edge of a hydrocarbon sea on the surface of Alula
 
 One of thousands of Cicek employed in the refining operations is **Engineer Level 6 Jack**.
 
+Bantion is also home to "The Terran Borderlands' Heaviest Colonial Rock Band, **Heavy Industry Iron Piston**".
+
 ![Bantion](bantion.png)
 
 
