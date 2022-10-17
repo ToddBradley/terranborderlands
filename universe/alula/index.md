@@ -170,3 +170,16 @@ The power levels shown below are subjective ratings from the (admittedly human-c
 * inhabit the inner asteroid belt, known to act mostly as pirates preying on merchant activity (both Cicek and Terran)
 * power level: 3/6
 
+## Minor Cicek Tribes Present
+
+### Blue Star Tribe
+
+Primary Stronghold: Chukkahr
+
+See here: [https://toddbradley.github.io/terranborderlands/factions/allies-and-enemies/split-stone-tribe](https://toddbradley.github.io/terranborderlands/factions/allies-and-enemies/split-stone-tribe)
+
+### Split Stone Tribe
+
+Primary Stronghold: Bantion
+
+See here: [https://toddbradley.github.io/terranborderlands/factions/allies-and-enemies/blue-star-tribe](https://toddbradley.github.io/terranborderlands/factions/allies-and-enemies/blue-star-tribe)
