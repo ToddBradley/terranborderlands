@@ -71,4 +71,22 @@ The Owl Bear rockets to the outer Rudra system to visit Valcent Harbor. There, t
 
 ## August 16, 2022
 
-Finishing up immediate business with Executive Valcent, the hardy crew of The Owl Bear met with Valcent's uncle, Professor Mark Katz. He shared information about a rogue planet passing through the Rudra system, and asked them to go investigate on his behalf. The party sped off, and easily found the planet. After an orbital survey, the group explored three sites of interest - ruins of an alien civilization. It appears the former inhabitants of the rogue planet extinguished themselves in a nuclear war. The group gathered various bits of evidence they picked up for the professor, as well as an unexploded nuclear bomb. Upon return to Valcent Harbor, they turned over the information and artifacts to Professor Katz and were paid the handsome sum of 100,000 Cr for their work.
+Finishing up immediate business with Executive Valcent, the hardy crew of the Owl Bear met with Valcent's uncle, Professor Mark Katz. He shared information about a rogue planet passing through the Rudra system, and asked them to go investigate on his behalf. The party sped off, and easily found the planet. After an orbital survey, the group explored three sites of interest - ruins of an alien civilization. It appears the former inhabitants of the rogue planet extinguished themselves in a nuclear war. The group gathered various bits of evidence they picked up for the professor, as well as an unexploded nuclear bomb. Upon return to Valcent Harbor, they turned over the information and artifacts to Professor Katz and were paid the handsome sum of 100,000 Cr for their work.
+
+
+## September 13, 2022
+
+The crew of the Owl Bear returned to Transom Rock, and met with respectable cyberneticist Dr. Simon Ostrak. He performed extensive surgery on both Aramis and Ratna to implant subdermal armor. During the month-long recovery, Malek established himself as a very successful speculative trader, earning literally millions of credits of profit in the system, and gathering enough goods to complete the supply mission for Executive Valcent. With that box checked, the party received the mythic Static Pulser, and had it installed onto the Owl Bear.
+
+## September 27, 2022
+
+After a brief calibration test of the Static Pulser and hiring Dorman, an ex-Terran Guard, the Owl Bear proceeded across the UTR border into the area of space claimed by the Cicek Confederacy. On arrival, the ship encountered a suspicious Shaka class small military starship ("The Mansa"), and got in a fight with them. Thanks to some good preparation and a defense, the boarders from The Mansa were repelled. And thanks to the new Static Pulser (operated by Engineer Ratna, who was seen drooling a lot) the Owl Bear fought the Mansa to a draw and escaped. It's now a week later, and the crew has had some time to settle into the very alien - literally - starport center at Alula.
+
+
+## October 11, 2022
+
+Dormin says goodbye to the crew to continue his quest to get to his brother's wedding on time. He is very quickly replaced by "Lefty" the Ssesslessian engineer, an outcast from Ssesslessian society who apparently loves everything about Terrans. The crew of the Owl Bear met with Cicek shaman Vera Slo'mock, who proposed a very sensitive but important mission to secretly locate and retrieve the fertilized egg belonging to the leaders of the Blue Star Tribe, Luna Whip Tail and Silver Scar (deceased). The egg was taken by the rival Split Stone Tribe, and is probably held at the Split Stone Creche, on the surface of Alula. Under the auspices of trade negotiations, the party is given a tour of the petrochemical refinery belonging to the Split Stone Tribe, during which Lefty hacks the Split Stone computer network and gains a map of the city surrounding the refinery, including the creche. After returning to Prosperity City, the party meets with Luna Whip Tail, accepts her quest, and receives several Cicek holy warriors to help them on it.
+
+## October 25, 2022
+
+(TBD)

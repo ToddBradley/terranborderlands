@@ -76,6 +76,9 @@ The inner asteroid belt lies between the 2nd and 3rd planets of the system.
 
 ### Xi Ursae Majoris ACd - Alula - Main Planet
 
+[<img src="alula-from-space.png" width="50%"/>](alula-from-space)
+_Alula from space_
+
 [<img src="alula-satellite-map.png" width="50%"/>](alula-satellite-map.png)
 _Alula satellite map_
 
@@ -101,17 +104,26 @@ There are representatives of all Alula’s tribes on the planet Alula, except fo
 
 Alula's interstellar port is rated Type B, and there is both a "high port" and a "low port" here. The port is able to handle both streamlined and non-streamlined ships. By tradition and neutrality treaty, the **Nine Fingers Tribe** operates the starport.
 
-Alula High Port was originally built under Reticulan control, but later upgraded with help from the Cicek's Terran allies toward the end of the war.
+Fuel refining operations on Alula are simple and easy, because several deep seas of mostly methane exist on the planet's surface. The larger ones have extraction and refining facilities, and the refined fuel is then sold at the low port. The major Cicek tribes in the system also have their own private fuel depots at these refineries.
+
+#### Alula High Port
 
 ![Alula High Port](AlulaHighPort.png)
-_Alula High Port_
+
+
+Alula High Port was originally built under Reticulan control, but later upgraded with help from the Cicek's Terran allies toward the end of the war.
+
+
+#### Alula Low Port
+
+![Alula Low Port](AlulaLowPort.png)
 
 Alula Low Port is the center of trade in the system, and the startown that has cropped up around the port is known in Terran as **Prosperity City**.
 
-![Prosperity City](prosperity-city.jpg)
-_Prosperity City_
+#### Prosperity City
 
-Fuel refining operations on Alula are simple and easy, because several deep seas of mostly methane exist on the planet's surface. The larger ones have extraction and refining facilities, and the refined fuel is then sold at the low port. The major Cicek tribes in the system also have their own private fuel depots at these refineries.
+![Prosperity City](prosperity-city.jpg)
+
 
 
 ### Xi Ursae Majoris ACe
