@@ -29,7 +29,7 @@ Silver Scar founded the Blue Star Tribe about 20 years ago, when his Glory grew 
 
 Luna Whip Tail's personal starship is the "Long Nose", a 1000-ton L'Ouverture-Class Liberty Ship - Model/B Troop Ship design. It was built by Terrans during the war to transport lots of human troops in cold sleep. But later it was used during the era of intense expansion of Alula, to transport Cicek colonists from other parts of known space to the rapidly developing work posts.
 
-**Silver Scar ** won it as a glory prize, and the **Blue Star Tribe** has been using it for profitable trade since then. It has a large cargo hold, but the main feature is 500 low berths.
+**Silver Scar** won it as a glory prize, and the **Blue Star Tribe** has been using it for profitable trade since then. It has a large cargo hold, but the main feature is 500 low berths.
 
 [<img src="long-nose.png" width="50%"/>](long-nose.png)
 
