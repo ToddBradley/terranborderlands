@@ -90,3 +90,13 @@ Dormin says goodbye to the crew to continue his quest to get to his brother's we
 ## October 25, 2022
 
 (TBD)
+
+
+## November 8, 2022
+
+(TBD)
+
+
+## November 22, 2022
+
+(TBD)
