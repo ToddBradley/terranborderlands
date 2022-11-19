@@ -43,19 +43,28 @@ From *Terra Arisen*:
 
 ### "Jeima Eeno" - Pi1 Ursae Majoris a
 
-Rock planet, no atmosphere, no moons
+Small rock planet, no atmosphere, no moons
 
+A few prospecting operations
+
+![](a.png)
 
 
 ### "Jie Eepian" - Pi1 Ursae Majoris b
 
 Corrosive, hothouse planet, no moons
 
+Uninhabited except for two or three scientific research stations
+
+![](b.png)
 
 ### "Jie Pauhaud" - Pi1 Ursae Majoris c
 
-Jovian planet, 43 small moons, 3 large moons
+Unusually large airless rock planet, 43 small moons, 3 large moons
 
+Site of Reticulan naval base that was "glassed" by Cicek nukes in the early days of the war
+
+![](c.png)
 
 ### "Fei Lian" - Pi1 Ursae Majoris d
 
@@ -66,12 +75,12 @@ The northern hemisphere is all liquid water except for a frozen north pole. The 
 
 ![](fei-lian-globe.gif)
 
-Fei Lian has a single small moon that is densely inhabited.
+Fei Lian has a single small airless moon that is densely inhabited.
 
 
 #### Starports
 
-The class B starport at Fei Lian is unusually distributed, made of several different landing, docking, and repair facilities in various locations.
+The class B starport at Fei Lian is made of several different landing, docking, and repair facilities in various locations.
 
 * a low port on the planet's surface, with multiple antigrav boost plates, capable of six simultaneous controlled, assisted takeoffs or landings; this is the primary passenger terminal for the planet
 * a space elevator, terminated at the orbital Cicek Confederation navy base; this is mostly used for cargo transfer to and from orbit
@@ -82,9 +91,15 @@ The class B starport at Fei Lian is unusually distributed, made of several diffe
 
 ### "Veevauen" - Pi1 Ursae Majoris e
 
-Ringed methane jovian planet, 8 small moons
+Ringed methane jovian planet, 8 small moons with various atmosphere types
+
+Atmosphere is suitable for refining into fuel, freely available for skimming but unguarded
+
+![](e.jpeg)
 
 
 ### "Eebora Lian" - Pi1 Ursae Majoris f
 
 Small, cold, twilight-desert world with a convective, biopolluted atmosphere
+
+![](f.jpeg)
