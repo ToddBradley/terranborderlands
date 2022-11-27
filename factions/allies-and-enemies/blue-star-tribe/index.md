@@ -27,12 +27,15 @@ Silver Scar founded the Blue Star Tribe about 20 years ago, when his Glory grew 
 
 [<img src="long-nose-battle.png" width="50%"/>](long-nose-battle.png)
 
-Luna Whip Tail's personal starship is the "Long Nose", a 1000-ton L'Ouverture-Class Liberty Ship - Model/B Troop Ship design. It was built by Terrans during the war to transport lots of human troops in cold sleep. But later it was used during the era of intense expansion of Alula, to transport Cicek colonists from other parts of known space to the rapidly developing work posts.
+Luna Whip Tail's personal starship is the *Long Nose*, a 1000-ton L'Ouverture-Class Liberty Ship - Model/B Troop Ship design. It was built by Terrans during the war to transport human troops in cold sleep. But later it was used during the era of intense expansion of Alula, to transport Cicek colonists from other parts of known space to the rapidly developing work posts.
 
 **Silver Scar** won it as a glory prize, and the **Blue Star Tribe** has been using it for profitable trade since then. It has a large cargo hold, but the main feature is 500 low berths.
 
 [<img src="long-nose.png" width="50%"/>](long-nose.png)
 
+When in the Alula system, the *Long Nose* is typically parked in the same orbit as the Alula High Port, about 30 km trailing.
+
+*Long Nose* should not be confused with *Gilded Claw*, another former Liberty Ship that is now under the command of Captain Beta Half-Tail and his band of Ciceks from the Shadow Blind clan. (the *Gilded Claw* is a Model /C cargo hauler, while the *Long Nose* is a Model /B troop ship)
 
 ## The Most PIous Vera Slo'mock
 
