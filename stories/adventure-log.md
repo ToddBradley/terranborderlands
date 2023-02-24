@@ -83,20 +83,30 @@ The crew of the Owl Bear returned to Transom Rock, and met with respectable cybe
 After a brief calibration test of the Static Pulser and hiring Dorman, an ex-Terran Guard, the Owl Bear proceeded across the UTR border into the area of space claimed by the Cicek Confederacy. On arrival, the ship encountered a suspicious Shaka class small military starship ("The Mansa"), and got in a fight with them. Thanks to some good preparation and a defense, the boarders from The Mansa were repelled. And thanks to the new Static Pulser (operated by Engineer Ratna, who was seen drooling a lot) the Owl Bear fought the Mansa to a draw and escaped. It's now a week later, and the crew has had some time to settle into the very alien - literally - starport center at Alula.
 
 
-## October 11, 2022
+## October 10, 2022
 
 Dormin says goodbye to the crew to continue his quest to get to his brother's wedding on time. He is very quickly replaced by "Lefty" the Ssesslessian engineer, an outcast from Ssesslessian society who apparently loves everything about Terrans. The crew of the Owl Bear met with Cicek shaman Vera Slo'mock, who proposed a very sensitive but important mission to secretly locate and retrieve the fertilized egg belonging to the leaders of the Blue Star Tribe, Luna Whip Tail and Silver Scar (deceased). The egg was taken by the rival Split Stone Tribe, and is probably held at the Split Stone Creche, on the surface of Alula. Under the auspices of trade negotiations, the party is given a tour of the petrochemical refinery belonging to the Split Stone Tribe, during which Lefty hacks the Split Stone computer network and gains a map of the city surrounding the refinery, including the creche. After returning to Prosperity City, the party meets with Luna Whip Tail, accepts her quest, and receives several Cicek holy warriors to help them on it.
 
-## October 25, 2022
+## October 24, 2022
 
-(TBD)
-
+The crew of the Owl Bear sets up an intricate plan to infiltrate the Split Stone Tribe's creche to locate either the missing egg or information about it. But things go very awry, leaving a quarter of the planet suffering an EMP attack from the orbital nuke and the arrival of anti-grav fighter craft to intercept the party sneaking toward the city.
 
 ## November 8, 2022
 
-(TBD)
+Things on the planet Alula cool down a bit for our heroes. Ratna fires the Reticulan static pulser at the trio of fighter craft, disabling their electronics and taking them out of the equation. Malek and Lefty then sneak into the Split Stone [city of Bantion](https://toddbradley.github.io/terranborderlands/factions/allies-and-enemies/split-stone-tribe/#bantion), Mission Impossible style. They safely get into the creche, gather several vital clues about the egg, and get out again. Later, the party travels to the [Alula High Port](https://toddbradley.github.io/terranborderlands/universe/alula/#alula-high-port), where - thanks to the extremely lax legal system - they are able to aquire the possessions of the deceased Captain Zortek, Zhuzzh captain of the starship Siracusana. By great coincidence, the party meets the Siracusana's engineers in a seedy airport bar.
 
+## December 6, 2022
 
-## November 22, 2022
+A wrench is thrown into the party's plans when Rockford, the artificial intelligence who controls the Owl Bear, decides to seek political asylum within the Cicek Confederation. He doesn't want to return to Terran space, having learned from an intercepted transmission that Professor Ghoshal has been ordered to return Rockford to Mars to be decommissioned. As usual, the party concocts an intricate plan, but this time it works. Thanks to some help from Captain Malek's Reticulan medical droid, Ghoshal's short term memories are scrambled and he wakes up to think that Rockford has been stolen by a squad of Cicek warriors (portrayed by the party's own paladins, on loan from Vera Slo'mock). In the end, Rockford is now a legal member of the Nine Fingers Tribe, the neutral Cicek group who operates the Alula starport. And the party legally acquires the Siracusana and hires its two former engineers, who are happy to be employed once again.
 
-(TBD)
+## December 20, 2022
+
+Captain Malek is engrossed in an extremely lengthly Russian novel and spends the entire episode in his cabin. Meanwhile, the rest of the crew moves all their possessions and cargo from the Owl Bear over to the Siracusana, a ship that is twice as big. Professor Ghoshal hires another crew and departs Alula for Terra on board the Owl Bear. Everyone else jumps to Fei Lian aboard the Siracusana. One of the first stops at Fei Lian is the famed Devourer of Mud People Memorial Soma Fountain, and the party also meets Captain Nobu Yamakazu of the SS South Detroit, one of the other few Terran ships here on the regional Cicek capital world. The party gains a useful hint that the Meteor of Justice, the ship that the Split Stone shamans transferred the egg to from the Siracusana, may be located on Shau Mogra, a moon of Jie Pauhad. The Siracusana goes there.
+
+## January 31, 2023
+
+The party lands on the icy moon of Shau Mogra and investigates the wreck of the Meteor of Justice, learning that the survivors of the wreck were later attacked by Zhuzzh scavengers, who took the cargo and occupied cryotubes, including the egg. With that information, the Siracusana returned to Fei Lian. A tip from a worker at the harbormaster's office revealed that a small craft called The Bavrox was arriving. The two Zhuzzh on the Bavrox were captured and taken aboard the Siracusana for questioning.
+
+## February 14, 2023
+
+Splitting the two Zhuzzh up into separate interrogation rooms, the party gathered information about them and their captain and ship. The party used what they learned to locate the Zhuzzh scavenger ship The Bavrox. After debating several approaches, the Siracana crew decided to take the negotiation approach, offering to trade the two captive Zhuzzh and their small craft for the egg inside one of the cold berths. The negotiation succeeded perfectly, and the trade was made just as a third unidentified ship came into view on the long range sensors. The Siracusana made a hasty exit from the Fei Lian system, making an emergency jump back to Alula. What happened to The Bavrox? We don't know. Back in Alula, the party brought the quest for the egg to a conclusion. The egg was turned over to its rightful owner, [Luna Whip Tail](https://toddbradley.github.io/terranborderlands/factions/allies-and-enemies/blue-star-tribe/#luna-whip-tail). Captain Malek, in keeping with Cicek tradition, married Luna Whip Tail and became the new alpha male of the Blue Star Tribe. And as her new husband, Malek ordered them into Terran space to meet up with The Philosopher, back in the Rudra system. And that's where [Terran Borderlands Season 2](https://toddbradley.github.io/terranborderlands/stories/episodes/#season-2) ends.
