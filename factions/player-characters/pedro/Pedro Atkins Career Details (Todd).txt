@@ -1,0 +1,73 @@
+Pedro Atkins Career Details 
+
+Stats: # 8,7,6,9,4,6
+
+I'll put the 10 in Education, so stats are: 8769A6
+
+Bonuses:
+0,0,0,+1,+1,0
+
+Free skills for being Terran: Melee Combat-0, Gun Combat-0
+
+Homeworld: Jambavan
+
+Background Skills (4): Animals-0, Computer-0, Steward-0, Sciences-0
+
+Try to enlist in CRC-8, rolled 9
+Rank 0 (Agent), Gun Combat-1
+Survival, rolled 10 - survived!
+Basic training: Recon-0, Stealth-0, Streetwise-0, Vehicle-0
+Event: Driver Training. You are given special training in vehicles. Gain one of Piloting, Vehicles, or Zero-G.
+I'll take Zero-G-1
+Commission: failed
+Skills and Training: Adv. Education: Advocate-1
+Aging: now 22
+Re-enlist: 8, success
+
+Term 2, will switch to CRC-16
+Survival, rolled 9 = survived
+Event: Mishap: Harassed. A criminal gang harasses you and ruins your life. Gain an Enemy.
+Commission: failed again
+Skills: Personal Development: Athletics-1
+Aging: now 26
+Re-enlist: 7, success
+
+Term 3, stay in CRC-16
+Survival: going for the glory, -2; still got a 6, which succeeds!
+Event: 11, Befriended. A superior agent befriends you. Gain a +2 DM on your next Advancement or Commission roll and an Ally.
+Commission: 10, succeed; Rank 1 = Field Agent
+Advancement: 5, fail
+Skills: Specialist: Recon-1, Adv. Education: Linguistics-1
+Aging: 30
+Re-enlist: 9, succeeds
+
+Term 4, return to CRC-8
+Survival: 6, barely succeed
+Event: Undercover Mission. You are sent on a mission behind enemy lines. You may roll on the Service Skill table of any Civilian career listed above. Throw Bribery 8+ or Athletics 8+. If you succeed, gain a +1 DM on your next Advancement or Commission roll. If you fail, roll on the Injury table. New Skill: Rolling on Service Skill table for Elite: 2=Advocate, which makes me Advocate-2. Throw Athletics 8+: 6, failed = Injury. Injury roll=2d6-2=Character severely injured with lasting implications. Roll 1D6: 1-2, character loses a hand; 3-4, character loses one eye; 5-6, character suffers brain damage. Rolled 2=loses a hand
+
+Lost Hand: One of the character’s hands must be amputated as part of medical care, though surgery saves most of the arm. The character loses all uses of the hand. At TL8, an advanced prosthetic costing Cr2000 can restore almost perfect functionality, albeit at DM -2 to all actions performed with the mechanical hand. At TL11+, a cybernetic hand costing Cr5000 restores full functionality.
+
+"in the UTR and many other post-war societies, people with replacement body parts receive a +1 DM on any encounter reaction rolls due to the high esteem that veterans are held."
+
+So, I have a medical debt of Cr5000, but +1 DM on reaction rolls.
+
+I think that since the mission was "behind enemy lines" this should give me a UTR Wound Star medal.
+
+Advancement: 11, so I'm now Rank 2=Senior Agent
+Skills: Personal Development: 6=Gun Combat-2, Specialist Skills: 2=Advocate-3
+Aging: now 34; Jambavan is TL-12, so roll 2d6-4+2=3: No effect
+Re-enlist: 6=success
+
+Term 5, stay in CRC-8
+Survival: 13!!! that means I had effect 7 on my Survival check. But I don't think great rolls on Survival give any medals.
+Event: Informant. You are sent to turn an enemy agent to your side. Throw Liaison 8+ or Intelligence 8+. If you succeed, gain an Ally. If you fail, gain an Enemy. I choose to try Intelligence: rolled 8. Gained ally.
+Advancement: 8=success, now Rank 3=Senior Agent with new skill of Leadership-1
+Skills: Specialist: 1=Admin-1, Adv. Education: 1=Advocate-4
+Aging: now 38; roll 2d6-5+2=-1: Reduce two physical characteristics by 1. I choose to reduce Str to 7 and End to 5.
+Time to muster out. I'm getting too old.
+Re-enlist: 4=they wouldn't have wanted me back anyhow!
+
+Benefits:
+5 terms + 0 for rank (max 3 on Cash table)
+2 material: Low Passage, +1 INT
+3 cash: Cr31000 total

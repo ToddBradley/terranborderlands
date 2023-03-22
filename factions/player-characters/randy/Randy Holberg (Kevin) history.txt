@@ -1,0 +1,98 @@
+Randy Holberg
+Former belter, former Council Advisor (colonist), former Terran Army private
+
+Stats:
+6
+10, +1
+6
+8
+10, +1
+7
+
+Homeworld: Parvati
+
+Background Skills
+Gun Combat-0
+Melee Combat-0
+Zero-G-0
+Engineering-0
+Steward-0
+Advocate-0
+Medicine-0
+
+Belter
+Zero-G-1
+survived
+
+Comms-0
+Demolitions-0
+Gunnery-0
+Physical Sciences-0
+Piloting-0
+
+Event: Injured - Scarred. You are scarred and injured. Reduce any one physical characteristic by 2.
+Chose to reduce End
+
++1 End
++1 Dex
+
+Re-enlist
+survived
+
+Event: Career Change. Dissatisfied with your current life, you decide to change careers. You must change careers at the end of this term, but you gain a +2 DM on your next Qualification roll.
+
+Prospecting-1
+Piloting-1
+
+Mustered out:
+High Passage
+5000 credits
+
+
+Try to enlist in Colonist
+yes
+Survival-1
+basic training: Animals-0
+survived
+Event: Improved Relationship. A romantic or fraternal relationship deepens, possibly leading to marriage or a profound friendship. Change an Enemy into an Ally. If you don’t have an Enemy, gain an Ally.
+(need to choose an ally)
+got commission
+got advancement
+so, rank 2 = District Delegate
+
++1 Int
+Electronics-1
+Mechanics-1
+
+Reenlist: yes
+
+survived
+got advancement
+Now rank 3 = Council Advisor
+Liaiason-1
+
+Event: War Event. You are caught up in events of the war. Roll on the War Event table.
+Conscription. If you are not currently in a military career, you are conscripted. Roll on the Draft table and automatically join the rolled service next term. If you are in a military service, you may make a roll on your career’s Service Skill table.
+
+Vehicle-1
+Animals-1
+
+Drafted into: Terran Army
+Gun Combat-1
+basic training: Carousing-0
+survived
+failed commission, Rank 0 = Private
+
+Aging: no effect
+
+Event: Hostile World. You are assigned to a world with a hostile or wild environment. Gain one of Animals, Mechanics, or Zero-G.
+Zero-G-2
+
+
+Medicine-1
+
+Wants to not reenlist.
+Mustered out with 20000 Cr
+
+5 terms = Age 38
+ready to start
