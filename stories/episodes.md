@@ -30,7 +30,7 @@ Mid-season break as our program converts from virtual to physical...
 * **Episode 204** - *Risks and Rudra* - The story finally leaves the Parvati system, as the Owl Bear heads to Rudra. Intense solar flares create a pressure cooker in the inner system. Will the outer system lead to new adventures?
 * **Episode 205** - *Rogue Planet* - A respected scientist believes he is first to identify a rogue planet, and sends the crew of the *Owl Bear* to investigate.
 * **Episode 206** - *The Egg, Part 1* - The crew of *Owl Bear* begins to explore Alula, and gets a holy quest from a Cicek shaman.
-* **Episode 207** - *The Egg, Part 2* - The quest for the holy egg of Queen Luna Whip Tail leads the party through many unusual and dangerous situations. 
+* **Episode 207** - *The Egg, Part 2* - The quest for the holy egg of Queen Luna Whip Tail leads the party deeper into Cicek Confederation space.
 
 
 # Season 3
